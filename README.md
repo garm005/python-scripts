@@ -1,2 +1,2 @@
 # Python scripts
-Folder with Python scripts
+Repository with different Python scripts
