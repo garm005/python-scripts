@@ -59,7 +59,9 @@ except OSError:
     print('Hay un problema con el archivo de Excel, no se pudo cargar')
 
 for f in os.listdir(os.getcwd()):
-    if f.endswith('.jpg') and f[0] == 'p':
+    if (f.endswith('.JPG') or f.endswith('.JPEG') or \
+        f.endswith('.jpg') or f.endswith('.jpeg')) and \
+        (f[0] == 'p' or f[0] == 'P'):
         
         print('Procesando archivo: {:s}'.format(f))
         
