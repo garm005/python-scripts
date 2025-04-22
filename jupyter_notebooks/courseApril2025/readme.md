@@ -1,3 +1,5 @@
+# Contenido
+
 En esta carpeta se encuentran todos los archivos de ejercicios, en Jupyter, y presentaciones para el curso de abril del 2025 sobre conocimientos básicos de Python y Pandas.<br>
 Contenido:<br>
 1. Qué es Python.	
